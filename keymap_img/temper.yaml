@@ -30,7 +30,7 @@ layers:
     - (
     - )
     - {t: V, h: Sft+ V}
-  - - ⌘
+  - - ''
     - {t: left_mods, h: left_mods}
     - {t: SPACE, h: navigation}
     - {t: E, h: Sft+ E}
@@ -204,5 +204,5 @@ combos:
   k: '&nt_eq'
 - p: [28, 29]
   k: ^
-- p: [30, 33]
+- p: [31, 34]
   k: {t: numbers, h: toggle}
